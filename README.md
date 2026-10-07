@@ -1,4 +1,6 @@
-[README.md](https://github.com/user-attachments/files/33164598/README.md)
+[README.md](https://github.com/user-attachments/files/33164706/README.md)
+# Mini-POS-System
+a lite version of a pos system
 <div align="center">
 
 # Mini POS System
